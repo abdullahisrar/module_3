@@ -251,3 +251,19 @@ li{
         width: 100%;
     }
 }
+#backtotop {
+    position: fixed;
+    bottom: 10px;
+    float: right;
+    left: 95%;
+    max-width: 50px;
+    font-size: 12px;
+    border-color: black;
+    background-color: grey;
+    padding: .5px;
+    border-radius: 4px;
+
+}
+#backtotop:hover {
+    background-color: skyblue;
+}
